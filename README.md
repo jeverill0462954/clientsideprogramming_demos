@@ -1,2 +1,2 @@
-# spacething
-This is my first space application
+# Demos
+Demos for everything done in the Client Side Programming course
