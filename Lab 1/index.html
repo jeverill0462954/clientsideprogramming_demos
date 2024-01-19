@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <!-- W3.CSS -->
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="w3-container w3-teal">
+            <h1><i class="fa fa-plane"></i> Your Airport:</h1>
+            <p id="output">PLACEHOLDER</p>
+
+            <script>
+                let airportLocation = "Halifax"
+                
+                if (airportLocation == "Halifax") {
+                    document.getElementById("output").innerHTML = "Your airport is the Halifax Stanfield International Airport. Their phone number is (902) 873-4422."
+                }
+                else {
+                    document.getElementById("output").innerHTML = "Sorry, but we do not have info on airports outside of Halifax."
+                }
+            </script>
+        </div>
+    </body>
+</html>

@@ -1,2 +1,2 @@
-# Demos
-Demos for everything done in the Client Side Programming course
+# Labs
+All labs done in Client Side Programming (PROG2700)
