@@ -1,2 +1,2 @@
-# Labs
-All labs done in Client Side Programming (PROG2700)
+# Labs/Exercises
+All labs and exercises done in Client Side Programming (PROG2700)
